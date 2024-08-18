@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "loskiev",
-      "repo": "https://github.com/dcoxii1979/android_kernel_motorola_kiev",
-      "branch": "main",
-      "device": "Kiev"
+      "repo": "https://github.com/SyberHexen/android_kernel_motorola_sm7250",
+      "branch": "lineage-20",
+      "device": "kiev"
     },
     "withKernelSU": false,
     "toolchains": [
