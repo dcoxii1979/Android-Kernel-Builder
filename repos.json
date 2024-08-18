@@ -1,6 +1,6 @@
 [  {
     "kernelSource": {
-      "name": "los21kiev",
+      "name": "kiev21kernel",
       "repo": "https://github.com/dcoxii1979/android_kernel_motorola_kiev.git",
       "branch": "main",
       "device": "kiev"
