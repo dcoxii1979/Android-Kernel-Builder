@@ -5,7 +5,7 @@
       "branch": "main",
       "device": "kiev"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
@@ -13,8 +13,8 @@
         "name": "gas"
       },
       {
-        "repo": "https://gitlab.com/havoc-devices/android_prebuilts_clang_host_linux-x86_clang-r450784.git",
-        "branch": "12.1",
+        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone.git",
+        "branch": "11",
         "name": "clang"
       }
     ],
